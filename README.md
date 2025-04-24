@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/ramx-logo.png" alt="RAMX Logo" width="200"/>
+</p>
+
 # RAMX Token (RAMX) — Rebellion Against Mediocrity
 
 RAMX is a community-powered token built on the **BNB Smart Chain**, created to ignite a rebellion against mediocrity and centralized control.
